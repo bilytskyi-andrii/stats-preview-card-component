@@ -1,6 +1,8 @@
 :root {
     --ff-primary: 'Inter', sans-serif;
     --ff-secondary: 'Lexend Deca', sans-serif;
+
+    --fs-regular: 15px;
 }
 
 *,
